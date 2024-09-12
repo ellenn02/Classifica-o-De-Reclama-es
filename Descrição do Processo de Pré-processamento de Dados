@@ -1,0 +1,14 @@
+Descrição do Processo de Pré-processamento de Dados
+Passos:
+
+Limpeza de Texto:
+
+Remoção de Stopwords: Remover palavras comuns que não contribuem para a análise (como "e", "o", "a").
+Remoção de Pontuação e Números: Limpar os textos de caracteres não relevantes.
+Normalização: Convertendo todos os textos para minúsculas e aplicando lematização ou stemming.
+Tratamento de Valores Ausentes:
+
+Verificar e tratar quaisquer valores ausentes ou textos vazios.
+Vectorização de Texto:
+
+TF-IDF (Term Frequency-Inverse Document Frequency): Converter o texto em vetores numéricos que representam a importância das palavras em relação ao corpus.
