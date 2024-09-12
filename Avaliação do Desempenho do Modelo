@@ -1,0 +1,11 @@
+ Avaliação do Desempenho do Modelo
+Métricas de Avaliação:
+
+Acurácia: Percentual de previsões corretas feitas pelo modelo.
+Matriz de Confusão: Para visualizar o desempenho do modelo em cada categoria.
+Relatório de Classificação: Inclui precisão, recall e F1-score para cada categoria de produto.
+Análise de Palavras Importantes:
+Palavras mais Importantes: Identificar quais palavras são mais indicativas para cada categoria de produto usando as probabilidades de palavras do modelo Naive Bayes.
+Verificação da Generalização:
+
+Avaliar como o modelo se comporta em novos dados não vistos para verificar a capacidade de generalização.
