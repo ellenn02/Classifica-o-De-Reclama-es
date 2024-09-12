@@ -1,0 +1,30 @@
+
+### .gitignore
+
+```gitignore
+# Ignorar arquivos de notebook Jupyter
+*.ipynb_checkpoints
+
+# Ignorar arquivos de dados
+data/*.csv
+
+# Ignorar arquivos de configuração do ambiente
+*.env
+
+# Ignorar arquivos de cache e log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignorar diretórios de ambiente virtual
+venv/
+env/
+Enunciado do Projeto
+Projeto de Análise e Classificação de Reclamações de Consumidores
+
+O objetivo deste projeto é construir um modelo de classificação de texto para categorizar automaticamente reclamações de consumidores em diferentes tipos de produtos. Utilizando técnicas de processamento de linguagem natural (NLP) e aprendizado de máquina, o projeto visa automatizar a triagem e categorização de reclamações, facilitando a gestão de feedback de clientes.
+
+O conjunto de dados utilizado contém reclamações de consumidores, cada uma com um texto descritivo e uma categoria de produto associada. O modelo de classificação é treinado usando o algoritmo Naive Bayes e avaliado em termos de acurácia, matriz de confusão e relatório de classificação. A análise inclui a identificação das palavras mais importantes para a classificação e a capacidade do modelo de generalizar para novos dados.
+
