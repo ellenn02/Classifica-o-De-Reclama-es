@@ -1,0 +1,19 @@
+Conclusões e Recomendações
+
+Desempenho do Modelo:
+
+Resumo da acurácia e outras métricas de desempenho.
+Como o modelo se sai em diferentes categorias de produtos.
+Distribuição das Predições:
+
+Análise da distribuição das previsões em relação às categorias.
+Importância das Palavras:
+
+Palavras-chave que ajudam na classificação de cada categoria e sua relevância.
+Capacidade de Generalização:
+
+Avaliação da eficácia do modelo em novos dados e sugestões para melhorias.
+Recomendações:
+
+Ajustes no Modelo: Sugestões para melhorar o desempenho, como ajustar parâmetros ou experimentar outros algoritmos.
+Aplicações Práticas: Como o modelo pode ser utilizado para melhorar a triagem e categorização de reclamações em um ambiente real.
