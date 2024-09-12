@@ -1,0 +1,31 @@
+# Classificação de Reclamações de Consumidores
+
+Este projeto visa desenvolver um modelo de classificação de texto para categorizar reclamações de consumidores em diferentes tipos de produtos. Utilizando técnicas de processamento de linguagem natural (NLP) e aprendizado de máquina, o modelo ajuda a automatizar o processo de triagem e categorização de reclamações.
+
+## Objetivo
+
+- **Construir um modelo de classificação de texto** usando o algoritmo Naive Bayes para categorizar reclamações.
+- **Avaliar o desempenho** do modelo com métricas como acurácia, matriz de confusão e relatório de classificação.
+- **Identificar palavras importantes** para cada categoria de produto.
+- **Verificar a capacidade de generalização** do modelo para novos dados.
+
+## Dados
+
+Os dados utilizados estão no arquivo `complaints_processed.csv`, que contém textos descritivos das reclamações e suas categorias de produto associadas. O arquivo está acessível através do link abaixo:
+
+- [complaints_processed.csv](https://drive.google.com/file/d/1Yt8X9u62TWW-dkH4Kn-XYo4LegUcX_Ix/view?usp=sharing)
+
+## Estrutura do Repositório
+
+- `data/`: Contém o arquivo CSV com os dados de entrada.
+- `notebooks/`: Contém o notebook Jupyter com a análise e o treinamento do modelo.
+- `src/`: Contém scripts Python com funções auxiliares e o código principal para processamento e modelagem.
+- `results/`: Contém gráficos e relatórios gerados pela análise.
+- `README.md`: Este arquivo com informações sobre o projeto.
+- `.gitignore`: Arquivo para excluir arquivos não desejados do repositório.
+
+## Instruções para Execução
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
