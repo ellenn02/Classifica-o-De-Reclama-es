@@ -1,0 +1,15 @@
+ Análise Exploratória dos Dados
+Passos:
+
+Carregamento dos Dados:
+
+Ler o arquivo CSV complaints_processed.csv que contém textos descritivos e categorias de produtos associadas.
+Exploração Inicial:
+
+Resumo Estatístico: Verificar a distribuição das categorias de produtos e o comprimento dos textos das reclamações.
+Distribuição das Categorias: Contar o número de reclamações em cada categoria para identificar a distribuição e verificar o balanceamento dos dados.
+Visualização dos Dados: Utilizar gráficos como histogramas ou gráficos de barras para visualizar a frequência das categorias e o comprimento dos textos.
+Análise de Textos:
+
+Verificar a presença de stopwords, termos comuns e vocabulário.
+Analisar a diversidade e complexidade do vocabulário usado nas reclamações.
