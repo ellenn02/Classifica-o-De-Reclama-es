@@ -1,0 +1,8 @@
+Descrição do Modelo de Machine Learning Utilizado
+Modelo: Naive Bayes, especificamente o Naive Bayes Multinomial, é uma escolha comum para problemas de classificação de texto devido à sua simplicidade e eficácia com dados textuais.
+
+Parâmetros do Modelo:
+
+Tipo de Modelo: Naive Bayes Multinomial.
+Feature Extraction: TF-IDF.
+Treinamento: Ajustar o modelo usando o conjunto de dados de treino.
