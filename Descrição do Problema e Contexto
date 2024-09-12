@@ -1,0 +1,4 @@
+Descrição do Problema e Contexto
+Objetivo: Desenvolver um modelo de classificação de texto para categorizar reclamações de consumidores em diferentes tipos de produtos. O sistema deve classificar automaticamente novas reclamações com base em seu conteúdo textual, facilitando a triagem e categorização de reclamações por empresas.
+
+Contexto: O processamento de linguagem natural (NLP) permite automatizar a análise e categorização de grandes volumes de texto. No contexto de reclamações de consumidores, um sistema automatizado pode ajudar empresas a identificar padrões e áreas de melhoria mais rapidamente, melhorando a eficiência e a precisão na gestão de feedback dos clientes.
